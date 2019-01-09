@@ -9,8 +9,8 @@
     <ProjectGuid>{693435A4-50D5-449A-AA8B-E3093AAE433B}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Invaders2</RootNamespace>
-    <AssemblyName>Invaders2</AssemblyName>
+    <RootNamespace>Invaders</RootNamespace>
+    <AssemblyName>Invaders</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <MonoGamePlatform>Windows</MonoGamePlatform>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>

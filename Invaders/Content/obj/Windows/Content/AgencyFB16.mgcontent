@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/samia/Documents/Repos/Mono-Invaders/mono-invaders/Invaders/Content/AgencyFB16.spritefont</SourceFile>
+  <SourceTime>2018-12-23T13:54:13.6356717+02:00</SourceTime>
+  <DestFile>C:/Users/samia/Documents/Repos/Mono-Invaders/mono-invaders/Invaders/Content/bin/Windows/Content/AgencyFB16.xnb</DestFile>
+  <DestTime>2019-01-09T15:13:03.2307901+02:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-12-08T18:35:54+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-12-08T18:35:54+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

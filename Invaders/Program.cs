@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Invaders2
+namespace Invaders
 {
 #if WINDOWS || LINUX
     /// <summary>

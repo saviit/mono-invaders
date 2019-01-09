@@ -4,7 +4,7 @@ using Microsoft.Xna.Framework.Input;
 using System.Collections.Generic;
 using System;
 
-namespace Invaders2
+namespace Invaders
 {
     /// <summary>
     /// This is the main type for your game.
